@@ -20,7 +20,7 @@ A beginner-friendly HTML project that showcases key global events from the 19th,
 - Designing readable, educational layouts
 
 ## 📸 Screenshot
-![project-screenshot](screenshot.png)  <!-- Upload your image -->
+![project-screenshot](Screenshot 2025-06-16 200513.png)  
 
 ## 🔗 Live Demo (optional)
 If you use GitHub Pages:  
